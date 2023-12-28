@@ -7,4 +7,4 @@
 🚀  My Tech Skills Summary
 Languages and Frameworks
 
-JavaScript HTML5 CSS React NextJS MySQL NodeJs
+JavaScript, HTML5, CSS, React, NextJS, MySQL, NodeJs
