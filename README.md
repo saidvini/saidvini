@@ -6,4 +6,4 @@
 
 Languages and Frameworks
 
-JavaScript, HTML5, CSS, React, NextJS, React, MySQL, NodeJs, React-Native, TypeScript, NestJS, DDD, TDD
+JavaScript, HTML5, CSS, React, NextJS, MySQL, NodeJs, React-Native, TypeScript, NestJS, DDD, TDD
