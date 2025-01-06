@@ -1,6 +1,6 @@
 👱  About me
 
-🎓 Estudo Análise e Desenvolvimento de Sistemas, atualmente estou no 5º semestre da faculdade, e pretendo me formar ao final de 2024
+🎓 Formado em Análise e Desenvolvimento de Sistemas - 2024
 
 🚀  My Tech Skills Summary
 
